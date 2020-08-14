@@ -10,4 +10,5 @@ https://laplaciannin102.github.io/pages_sample_202001/
 
 - リポジトリのOptions>Settings>SourceでSelect folder部分をrootにしてみたり, docsにしてみたりする.
 - 見え方を確認.
+- docsにすると./docs/index.htmlがTopページとして表示されるようになる.
 
